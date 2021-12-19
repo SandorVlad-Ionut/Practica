@@ -17,8 +17,8 @@ public:
 	void setAge(int age);
 	int getAge() const;
 
-	## sa fac un modul separat pt goals sau sa il pun aici?
-	## goals sa fie categorii prestabilite de ex "sport", "istorie" sau stringuri facute de user : "sa fac cozonaci cu nuca mai bine" ?
+	// sa fac un modul separat pt goals sau sa il pun aici?
+	// goals sa fie categorii prestabilite de ex "sport", "istorie" sau stringuri facute de user : "sa fac cozonaci cu nuca mai bine" ?
 
 
 	int getId() const;

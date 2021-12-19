@@ -19,7 +19,7 @@ int User::getId() const
 	return this->m_id;
 }
 
-##geters setters
+//geters setters
 
 void User::setFirstname(string name)
 {
